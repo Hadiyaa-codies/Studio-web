@@ -1,0 +1,181 @@
+a{
+    margin-left: 40px;
+    font-size: medium;
+    text-decoration: none;
+    color: palevioletred;
+    transition: all 0.1s;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+}
+.link{
+    padding-top: 28px;
+    
+}
+.cont{
+    margin-top: 22px;
+    border: 1px  rgb(139, 178, 212) solid;
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 11px;
+    color: rgb(139, 178, 212);
+}
+.text{
+    margin-top: 70px;
+    color: aliceblue;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(/Newweb/CSS/position/animation/pikaso_texttoimage_cyberpunk-purple-pink-lue-gradient-shiny-vaporwave.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.visit{
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+    background-color: orangered;
+    border: 1px orangered solid;
+    color: aliceblue;
+}
+.mid{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -200px;
+    margin-top: 80px;
+}
+.sel{
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, purple, rgb(216, 106, 125), rgb(92, 172, 197));
+    border: none;
+}
+p{
+    color: aliceblue;
+}
+h3{
+    color: plum;
+}
+.imgone{
+  width: 200px; 
+  height: 115px;
+ border-radius: 10px;
+  margin-left: 0px;
+}
+.imgtwo{
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+    margin: 0px;
+margin-left: 230px;
+  }
+  .imgthree{
+    width: 200px; 
+    height: 115px;
+    border-radius: 10px;
+    margin: 0px;
+    margin-left: 220px;
+  }
+  img{
+    margin-left: 150px;
+    margin-top: 80px;
+  }
+  .logo{
+    font-size: 25px;
+    margin-top: -16px;
+    color: plum;
+  }
+  nav{
+   background-color: rgba(0, 0, 0, 0.3);
+   position: sticky;
+   top: 0px;
+  }
+  .imgfour{
+    height: 150px;
+    width: 200px;
+    margin-left: 0%;
+    margin-left: 5px;
+    border-radius: 10px;
+  }
+  .imgfive{
+    height: 150px;
+    width: 200px;
+    margin: 0px;
+    margin-left: 15rem;
+    border-radius: 10px;
+  }
+  .imgsix{
+    height: 150px;
+    width: 200px;
+    margin: 0%;
+    margin-left: 14rem;
+    border-radius: 10px;
+  }
+  .footer{
+background-color:rgba(0, 0, 0, 0.6);
+border-radius: 10px;
+  }
+  h1{
+    position: relative;
+    top: 80px;
+left: 5px;
+color: plum;
+  }
+  .studio{
+    font-size: 30px;
+    color: palevioletred;
+  }
+  p{
+    font-size: small;
+  }
+.last{
+    text-align: center;
+}
+a:hover{
+    border: 1px palevioletred solid;
+    background-color: palevioletred;
+   color: black;
+   border-width: 20px;
+    
+}
+.cont:hover{
+    background-color: rgb(54, 161, 197);
+    border: 1px rgb(54, 161, 197) solid;
+    color: black;
+}
+  .visit:hover{
+    background-color: transparent;
+    border: 1px orangered solid;
+    color: aliceblue;
+  }
+  img:hover{
+        box-shadow: 10px 10px 20px rgba(243, 235, 235, 0.3);
+        cursor: pointer;
+  }
+.side{
+    height: 250px;
+    position: relative;
+    left: 35rem;
+}
+.semi{
+    display: flex;
+    margin-top: 40px;
+}
+h1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+h3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.logo:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
